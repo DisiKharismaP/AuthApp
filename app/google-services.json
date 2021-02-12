@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600616422140",
+    "project_id": "disi-idn-school-project",
+    "storage_bucket": "disi-idn-school-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600616422140:android:b12f57ab90d02493e2a579",
+        "android_client_info": {
+          "package_name": "disiiy.khaper.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600616422140-krplgcm8ggks0hpi5dh2vla8cs9tb1fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "disiiy.khaper.authapp",
+            "certificate_hash": "4a18b890b65b260483271c421c05f9f3c8a518d8"
+          }
+        },
+        {
+          "client_id": "600616422140-itupc8fcu3irvme5uagpi3mkg2dk0che.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3yAaripkTF4DhgqMYydNIFMcBZ-nVx4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600616422140-itupc8fcu3irvme5uagpi3mkg2dk0che.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
