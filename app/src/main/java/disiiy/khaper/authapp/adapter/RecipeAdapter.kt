@@ -28,7 +28,7 @@ class RecipeAdapter(private val context: Context, private val collection : Colle
         fun bind(recipes: Recipes){
             view.apply {
                 val name = "Name : ${recipes.recipeName}"
-                val jenis = "Jenis : ${recipes.recipeJenis}"
+                val jenis = "Type : ${recipes.recipeJenis}"
 
                 tv_name_food.text = name
                 tv_jenis_food.text = jenis

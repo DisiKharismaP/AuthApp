@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
         btn_sign_out.setOnClickListener {
             signOut()
         }
-        supportActionBar?.title = "Recipe App"
+        supportActionBar?.title = "Foods"
         rv_main.apply {
             setHasFixedSize(true)
             layoutManager = LinearLayoutManager(this@MainActivity)
